@@ -17,8 +17,8 @@ def seleciona_ultima_postagem():
     aguarda_carregamento_rapido()
 
 def verifica_curtida():
-    img = pyautogui.locateOnScreen('src/assets/curtida.png')
     try:
+        img = pyautogui.locateOnScreen('src/assets/curtida.png')
         if img is not None:
             return True
     except pyautogui.ImageNotFoundException:
