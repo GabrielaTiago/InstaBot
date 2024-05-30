@@ -1,7 +1,7 @@
 import pyautogui
 import pyperclip
 
-from services.temporizadores import pausa_automacao_24h, aguarda_carregamento_rapido
+from services.temporizadores import aguarda_carregamento_rapido
 
 def seleciona_barra_de_pesquisa():
     pyautogui.click(1128, 142, duration=1.5)
@@ -39,6 +39,3 @@ def iterage_com_ultima_postagem(comentario: str, emojis: str):
     if verifica_curtida() is False:
         adiciona_curtida()
         adiciona_comentario(comentario, emojis)
-        pausa_automacao_24h()
-    else:
-        pausa_automacao_24h()
