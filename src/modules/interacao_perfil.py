@@ -1,7 +1,7 @@
 import pyautogui
 import pyperclip
 
-from services.temporizadores import aguarda_carregamento_rapido
+from modules.temporizadores import aguarda_carregamento_rapido
 
 def seleciona_barra_de_pesquisa():
     pyautogui.click(1128, 142, duration=1.5)
@@ -28,8 +28,8 @@ def adiciona_curtida():
     pyautogui.doubleClick(1033, 427, duration=1.2)
 
 def adiciona_comentario(comentario: str, emojis: str):
-    pyautogui.click(984, 569, duration=1.5)
-    pyautogui.click(1025, 657, duration=1)
+    pyautogui.click(928, 581, duration=1.5)
+    pyautogui.click(1016, 657, duration=1)
     pyautogui.write(comentario, interval=0.6)
     pyperclip.copy(emojis)
     pyautogui.hotkey('ctrl', 'v')
