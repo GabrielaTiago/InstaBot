@@ -16,37 +16,34 @@
 ![NomeDaImagem](screens/images/print.png)
 </center> -->
 
-<!-- Espaço entre conteúdos -->
 $~$
 
 ## :clipboard: Descrição
 
-O projeto "InstaBot" é uma robô que possibilida interações automatizadas com a última postagem de um perfil. Com esta aplicação, o usuário insere suas credenciais de login, e a automação realiza o login, acessa o perfil definido, seleciona o último post e ralizando as interações definidas.
+O projeto "InstaBot" é uma robô que possibilida interações automatizadas com a última postagem de um perfil. Com esta aplicação, o usuário insere suas credenciais de login, e a automação realiza o login, acessa o perfil definido, seleciona o último post e realizando as interações definidas.
 
 <!-- Link de Acessa à aplicação -->
 <!-- ### :emoji: [Acesse aqui](https://link/) -->
 
-<!-- Espaço entre conteúdos -->
 $~$
 
 ## :bookmark_tabs: Características do projeto
 
 - Usuário:
-  - Defini suas credenciais de login - email e senha
+  - Define suas credenciais de login - email e senha
 - Robô:
-  - Verifica arquivo com as credenciais de login
-    - Caso não exista, solicita email e senha, cria arquivo com estes dados
+  - Verifica arquivo txt com as credenciais de login
+    - Caso não exista, solicita email e senha - cria arquivo com estes dados
     - Caso exista, pega email e senha armazenados
-  - Efetua o login utilizando o email e senha
+  - Efetua o login utilizando as credenciais
   - Busca pelo perfil definido
-  - Acessa o peril
+  - Acessa o perfil
   - Identifica a última postagem
   - Verifica se o post já foi curtido
     - Caso falso - curte e comenta
   - Realiza logout
   - Pausa automação por 24h
 
-<!-- Espaço entre conteúdos -->
 $~$
 
 ## :rocket: Rodando o projeto localmente
@@ -108,7 +105,6 @@ A aplicação será iniciada.
 
 </center> -->
 
-<!-- Espaço entre conteúdos -->
 $~$
 
 ## :bulb: Reconhecimentos
@@ -116,7 +112,6 @@ $~$
 - [Badges para Github](https://github.com/alexandresanlim/Badges4-README.md-Profile#-database-)
 - [README Inspiração de README](https://gist.github.com/luanalessa/7f98467a5ed62d00dcbde67d4556a1e4#file-readme-md)
 
-<!-- Espaço entre conteúdos -->
 $~$
 
 ## 👩‍🦱 Autora
@@ -127,7 +122,6 @@ Gabriela Tiago de Araújo
 - linkedin: <https://www.linkedin.com/in/gabrielatiago/>
 - portfolio: <https://gabrielatiago.vercel.app>
 
-<!-- Espaço entre conteúdos -->
 $~$
 
 [🔝 De volta ao topo](#instabot)
