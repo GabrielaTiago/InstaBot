@@ -20,7 +20,7 @@ $~$
 
 ## :clipboard: Descrição
 
-O projeto "InstaBot" é uma robô que possibilida interações automatizadas com a última postagem de um perfil. Com esta aplicação, o usuário insere suas credenciais de login, e a automação realiza o login, acessa o perfil definido, seleciona o último post e realizando as interações definidas.
+O projeto "InstaBot" é uma robô que possibilita interações automatizadas com a última postagem de um perfil. Com esta aplicação, o usuário insere suas credenciais de login, e a automação realiza o login, acessa o perfil definido, seleciona o último post e realizando as interações definidas.
 
 <!-- Link de Acessa à aplicação -->
 <!-- ### :emoji: [Acesse aqui](https://link/) -->
