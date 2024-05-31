@@ -1,19 +1,15 @@
-<center>
-
-<img src="src/assets/favicon.png" alt="insta favicon" height="80px"/>
+<p align = "center"><img src="src/assets/favicon.png" alt="insta favicon" height="80px" align = "center"/></p>
 
 <!-- Nome do Projeto -->
-# InstaBot
+# <p align = "center">InstaBot</p>
 
 <!-- Apontamento do projeto -->
-<h3>Bot de Curtidas e Comentários</h3>
+<h3  align = "center">Bot de Curtidas e Comentários</h3>
 
 <!-- Tecnologias utlizadas no projeto -->
-<div>
+<div align="center">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python badge" heigth="30px"/>
 </div>
-
-</center>
 
 <!-- Imagem Da Aplicação -->
 <!-- <center>
@@ -105,14 +101,12 @@ Este projeto foi feito com [Python 3](https://www.python.org), portanto, certifi
 
 A aplicação será iniciada.
 
-<!-- Espaço entre conteúdos -->
-$~$
-
-## 🎮 Usando
+<!--
+## 🎮 Demonstração
 
 <center>
 
-</center>
+</center> -->
 
 <!-- Espaço entre conteúdos -->
 $~$
